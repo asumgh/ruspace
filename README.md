@@ -1,4 +1,4 @@
-# ruspace
+# RuSpace
 There is a repository of my 4d place solution for terraevolution competition.
 Link: https://www.kaggle.com/c/roscosmos-rucode
 Task: we have pairs of satellite images that contains such terrirory of forests. On two images in pair is shown the same region of Earth in different times. We need to recignize changes in landscape. For instance, fire or deforestation.
